@@ -1,0 +1,11 @@
+name: WeaponsGalore
+version: '${project.version}'
+main: com.github.yeetyeeter02.WeaponsGalore.Main
+api-version: 1.19
+authors: [ RetroTBG ]
+description: A Starter's Plugin
+website: https://github.com/yeetyeeter02/Paper-Mod-Testing
+commands:
+  wggui:
+    description: Opens a GUI with every available gun!
+    usage: /<command>
